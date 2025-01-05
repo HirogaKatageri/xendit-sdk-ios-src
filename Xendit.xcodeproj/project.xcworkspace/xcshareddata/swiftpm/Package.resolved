@@ -1,4 +1,5 @@
 {
+  "originHash" : "d7e0e43420e3fa599e3c710c3fe3d9cdbdb543e9a85bc423361644c780765d59",
   "pins" : [
     {
       "identity" : "ohhttpstubs",
@@ -19,5 +20,5 @@
       }
     }
   ],
-  "version" : 2
+  "version" : 3
 }
